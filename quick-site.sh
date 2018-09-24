@@ -1,3 +1,4 @@
+#! /bin/sh
 cd ../
 mkdir site
 cd site

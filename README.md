@@ -12,3 +12,12 @@ Note: When you run the script, it will execute within the directory it's in. In 
 // Navigate to the directory of your choice.
 cd ../
 ``` 
+
+For example, I write my applications/websites in a directory called `code`, so I may navigate to that directory:
+
+``` 
+cd ../code
+```
+and the site skeleton will be created there. 
+
+After you've executed the script, you'll have the directory `site`, of which you can change the name to be whatever you'd like. 
